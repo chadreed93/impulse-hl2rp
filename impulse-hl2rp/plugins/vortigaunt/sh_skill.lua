@@ -1,0 +1,1 @@
+impulse.Skills.Define("vortigaunt", "Vort-essence")
